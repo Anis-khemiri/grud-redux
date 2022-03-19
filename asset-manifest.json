@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grud-redux/static/css/main.943ee0e1.css",
+    "main.js": "/grud-redux/static/js/main.ab091898.js",
+    "index.html": "/grud-redux/index.html",
+    "main.943ee0e1.css.map": "/grud-redux/static/css/main.943ee0e1.css.map",
+    "main.ab091898.js.map": "/grud-redux/static/js/main.ab091898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943ee0e1.css",
+    "static/js/main.ab091898.js"
+  ]
+}
